@@ -1,2 +1,6 @@
 hello gui.
+<<<<<<< HEAD
 from text
+=======
+haha.
+>>>>>>> 6c89d28eeff24027af79e1ba5681194bc022fef6
